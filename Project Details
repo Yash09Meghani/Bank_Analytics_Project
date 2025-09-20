@@ -1,25 +1,43 @@
-# Bank_Analytics_Project
-An intuitive bank analytics dashboard that provides comprehensive insights into financial data for informed decision-making.
+This dashboard provides a detailed view of loan distribution, funding, repayment status, and customer ownership insights.
 
-Project - Bank Analytics Dashboard
-Domain - Finance
+Overall Portfolio
 
-In this Project I had created a Power Bi Dashboard of a Bank Data.
+Total Loan Amount: 446M, with 435M funded and a Revolving Balance of 532M.
 
-These are some Key Performance Indicators I have used in this project -
+Indicates a high active loan base with strong funding activity.
 
-1. Year wise loan amount Stats.
+Loan Distribution by Grade
 
-2. Grade and sub grade wise revol_bal.
+Largest balances are in Grade B (161M) and Grade A (115M), followed by Grade C (110M).
 
-3. Total Payment for Verified Status Vs Total Payment for Non Verified Status.
+Lower grades (F & G) hold minimal balances, showing low exposure to high-risk categories.
 
-4. State wise and month wise loan status.
+Home Ownership & Payment Status
+  
+Majority of loans are tied to Mortgage (56.31M), followed by Rent (41.69M).
 
-5. Home ownership Vs last payment date stats.
+Ownership-based loans (8.23M) and “Other” (0.17M) are smaller segments.
 
-6. Purpose wise loan amount.
+Year-Wise Loan Growth
 
-7. State wise Verification status.
+Loan amounts have grown significantly from 2M in 2007 to 261M in 2011.
 
-8. Min and max of loan purpose wise.
+The highest growth surge is visible in 2010–2011.
+
+Payment Status Verification
+
+58.66% Verified vs 41.34% Not Verified, reflecting the need for stronger verification measures to reduce risk.
+
+Loan Status by State & Month
+
+Allows drill-down into state-wise and monthly loan performance (e.g., Fully Paid vs Charged Off).
+
+✅ Key Insights for Business:
+
+Strong growth trajectory in loan issuance over the years, with high concentration in Grade A–C customers.
+
+Mortgage-backed loans dominate, but rent-based loans also form a significant share.
+
+Nearly 41% loans remain unverified, which is a potential risk area for credit quality.
+
+Monitoring of state-level charged-off loans is crucial for risk management.
